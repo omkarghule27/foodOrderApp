@@ -49,4 +49,7 @@ async function createSession(req, res){
           }
 }
 
+async function createNewBooking(req, res){
+  
+}
 module.exports.createSession=createSession;
